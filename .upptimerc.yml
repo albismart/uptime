@@ -19,9 +19,9 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://cdn.albismart.cloud/logo.svg
-  name: Status Page
-  introTitle: "Page for monitoring Albismart servers!"
-  introMessage: ""
+  name: 
+  introTitle: "Status Page"
+  introMessage: "Page for monitoring Albismart servers!"
   navbar:
     - title: Status
       href: /
