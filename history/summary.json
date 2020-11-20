@@ -4,7 +4,7 @@
     "url": "64.225.81.232",
     "slug": "cloud-base",
     "status": "down",
-    "uptime": "0.03",
+    "uptime": "0.05",
     "time": 168
   },
   {
@@ -12,7 +12,7 @@
     "url": "157.245.64.40",
     "slug": "store",
     "status": "down",
-    "uptime": "0.04",
+    "uptime": "0.03",
     "time": 0
   },
   {
@@ -21,14 +21,14 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 734
+    "time": 738
   },
   {
     "name": "Compiler",
     "url": "161.35.154.157",
     "slug": "compiler",
     "status": "down",
-    "uptime": "1.08",
+    "uptime": "0.86",
     "time": 0
   }
 ]
