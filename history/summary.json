@@ -5,7 +5,7 @@
     "slug": "cloud-base",
     "status": "down",
     "uptime": "0.03",
-    "time": 168
+    "time": 179
   },
   {
     "name": "Store",
@@ -21,14 +21,14 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 761
+    "time": 807
   },
   {
     "name": "Compiler",
     "url": "161.35.154.157",
     "slug": "compiler",
     "status": "down",
-    "uptime": "0.82",
+    "uptime": "0.71",
     "time": 0
   }
 ]
