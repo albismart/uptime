@@ -1,42 +1,34 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 88
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 133
-  },
-  {
-    "name": "Hacker News",
-    "url": "https://news.ycombinator.com",
-    "slug": "hacker-news",
-    "status": "up",
-    "uptime": "100.00",
-    "time": 341
-  },
-  {
-    "name": "Broken Site",
-    "url": "https://thissitedoesnotexist.com",
-    "slug": "broken-site",
+    "name": "CloudBase",
+    "url": "64.225.81.232",
+    "slug": "cloud-base",
     "status": "down",
-    "uptime": "99.28",
+    "uptime": "3.26",
+    "time": 168
+  },
+  {
+    "name": "Store",
+    "url": "157.245.64.40",
+    "slug": "store",
+    "status": "down",
+    "uptime": "3.01",
     "time": 0
   },
   {
-    "name": "Secret Site",
-    "url": "$SECRET_SITE",
-    "slug": "secret-site",
+    "name": "Gitlab",
+    "url": "128.199.44.156",
+    "slug": "gitlab",
     "status": "up",
     "uptime": "100.00",
-    "time": 49
+    "time": 733
+  },
+  {
+    "name": "Compiler",
+    "url": "161.35.154.157",
+    "slug": "compiler",
+    "status": "down",
+    "uptime": "77.41",
+    "time": 0
   }
 ]
