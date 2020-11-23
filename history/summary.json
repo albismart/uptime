@@ -1,31 +1,31 @@
 [
   {
     "name": "CloudBase",
-    "url": "64.225.81.232",
+    "url": "https://albismart.cloud/",
     "slug": "cloud-base",
-    "status": "down",
-    "uptime": "0.00%",
-    "time": 198
+    "status": "up",
+    "uptime": "0.02%",
+    "time": 224
   },
   {
     "name": "Store",
-    "url": "157.245.64.40",
+    "url": "https://albismart.store/",
     "slug": "store",
     "status": "down",
     "uptime": "0.00%",
-    "time": 0
+    "time": 21
   },
   {
     "name": "Gitlab",
-    "url": "128.199.44.156",
+    "url": "https://gitlab.albismart.dev/",
     "slug": "gitlab",
     "status": "up",
     "uptime": "100.00%",
-    "time": 853
+    "time": 836
   },
   {
     "name": "Compiler",
-    "url": "161.35.154.157",
+    "url": "https://compiler.albismart.dev/",
     "slug": "compiler",
     "status": "down",
     "uptime": "0.01%",
