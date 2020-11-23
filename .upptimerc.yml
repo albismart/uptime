@@ -5,13 +5,13 @@ repo: uptime # Your Github repository name
 # Add your sites here
 sites:
   - name: CloudBase
-    url: 64.225.81.232
+    url: https://albismart.cloud/
   - name: Store
-    url: 157.245.64.40
+    url: https://albismart.store/
   - name: Gitlab
-    url: 128.199.44.156
+    url: https://gitlab.albismart.dev/
   - name: Compiler
-    url: 161.35.154.157
+    url: https://compiler.albismart.dev/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
