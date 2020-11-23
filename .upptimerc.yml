@@ -8,6 +8,8 @@ sites:
     url: https://albismart.cloud/
   - name: Store
     url: https://albismart.store/
+  - name: Developer Console
+    url: https://console.albismart.dev/
   - name: Gitlab Instance
     url: https://gitlab.albismart.dev/
   - name: Continuous delivery
