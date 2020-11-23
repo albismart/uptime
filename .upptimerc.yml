@@ -10,7 +10,7 @@ sites:
     url: https://albismart.store/
   - name: Gitlab
     url: https://gitlab.albismart.dev/
-  - name: Compiler
+  - name: Continuous delivery
     url: https://compiler.albismart.dev/
 
 status-website:
