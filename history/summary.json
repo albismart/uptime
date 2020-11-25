@@ -4,8 +4,8 @@
     "url": "https://albismart.cloud/",
     "slug": "cloud-base",
     "status": "up",
-    "uptime": "18.14%",
-    "time": 477
+    "uptime": "36.40%",
+    "time": 536
   },
   {
     "name": "Store",
@@ -13,7 +13,7 @@
     "slug": "store",
     "status": "down",
     "uptime": "0.00%",
-    "time": 18
+    "time": 0
   },
   {
     "name": "Developer Console",
@@ -21,7 +21,7 @@
     "slug": "developer-console",
     "status": "up",
     "uptime": "100.00%",
-    "time": 623
+    "time": 634
   },
   {
     "name": "Gitlab Instance",
@@ -29,14 +29,14 @@
     "slug": "gitlab-instance",
     "status": "up",
     "uptime": "100.00%",
-    "time": 578
+    "time": 602
   },
   {
     "name": "Continuous delivery",
     "url": "https://compiler.albismart.dev/",
     "slug": "continuous-delivery",
     "status": "up",
-    "uptime": "97.57%",
-    "time": 386
+    "uptime": "99.08%",
+    "time": 392
   }
 ]
