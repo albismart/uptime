@@ -4,8 +4,8 @@
     "url": "https://albismart.cloud/",
     "slug": "cloud-base",
     "status": "up",
-    "uptime": "66.39%",
-    "time": 522
+    "uptime": "69.93%",
+    "time": 518
   },
   {
     "name": "Store",
@@ -21,7 +21,7 @@
     "slug": "developer-console",
     "status": "up",
     "uptime": "100.00%",
-    "time": 598
+    "time": 606
   },
   {
     "name": "Gitlab Instance",
@@ -36,7 +36,7 @@
     "url": "https://compiler.albismart.dev/",
     "slug": "continuous-delivery",
     "status": "up",
-    "uptime": "99.74%",
-    "time": 385
+    "uptime": "99.78%",
+    "time": 384
   }
 ]
