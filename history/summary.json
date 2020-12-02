@@ -4,8 +4,8 @@
     "url": "https://albismart.cloud/",
     "slug": "cloud-base",
     "status": "up",
-    "uptime": "72.80%",
-    "time": 531
+    "uptime": "75.17%",
+    "time": 532
   },
   {
     "name": "Store",
@@ -36,7 +36,7 @@
     "url": "https://compiler.albismart.dev/",
     "slug": "continuous-delivery",
     "status": "up",
-    "uptime": "99.71%",
+    "uptime": "99.75%",
     "time": 410
   }
 ]
