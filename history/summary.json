@@ -39,7 +39,7 @@
     "timeMonth": 234,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2020-12-09": 656,
+      "2020-12-09": 666,
       "2020-12-08": 1440,
       "2020-12-07": 1440,
       "2020-12-06": 1440,
@@ -84,19 +84,19 @@
     "url": "https://gitlab.albismart.dev/",
     "icon": "https://favicons.githubusercontent.com/gitlab.albismart.dev",
     "slug": "gitlab-instance",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
     "time": 591,
-    "timeDay": 450,
-    "timeWeek": 544,
+    "timeDay": 509,
+    "timeWeek": 553,
     "timeMonth": 591,
     "timeYear": 591,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 10
     }
   },
   {
