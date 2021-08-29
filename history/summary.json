@@ -4,9 +4,9 @@
     "url": "https://albismart.cloud/",
     "icon": "https://favicons.githubusercontent.com/albismart.cloud",
     "slug": "cloud-base",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 474,
     "timeYear": 517,
     "dailyMinutesDown": {
+      "2021-08-29": 0,
       "2020-11-23": 567,
       "2020-11-22": 1440,
       "2020-11-21": 1440,
@@ -39,7 +40,7 @@
     "timeMonth": 0,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2021-08-29": 55,
+      "2021-08-29": 395,
       "2021-08-28": 1440,
       "2021-08-27": 1440,
       "2021-08-26": 1440,
