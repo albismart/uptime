@@ -41,7 +41,7 @@
     "timeMonth": 0,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2021-10-13": 59,
+      "2021-10-13": 1200,
       "2021-10-12": 1440,
       "2021-10-11": 1440,
       "2021-10-10": 1440,
@@ -396,9 +396,9 @@
     "url": "https://gitlab.albismart.dev/",
     "icon": "https://favicons.githubusercontent.com/gitlab.albismart.dev",
     "slug": "gitlab-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -408,6 +408,7 @@
     "timeMonth": 714,
     "timeYear": 625,
     "dailyMinutesDown": {
+      "2021-10-13": 0,
       "2021-07-20": 10,
       "2021-02-28": 5,
       "2020-12-09": 10
